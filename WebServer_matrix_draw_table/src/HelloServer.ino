@@ -5,8 +5,8 @@
 #include <ArduinoJson.h>
 #include <LedControl.h>
 
-const char* ssid = "tp-link";
-const char* password = "W8WSv2CQ";
+const char* ssid = "";
+const char* password = "";
 
 // define ur pins
 const int DIN_PIN = D4;
